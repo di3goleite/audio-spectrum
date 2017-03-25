@@ -1,0 +1,7 @@
+# do not touch this line
+configVersion: 2
+
+name: Audio Spectrum
+description: Show audio spectrum with Everloop for the current playing music
+keywords: 'Entertainment, Audio'
+displayName: Audio Spectrum
